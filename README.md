@@ -30,7 +30,7 @@
 ## 🎯 Meine Ziele
 
 - [ ] Python-Grundlagen meistern
-- [ ] Alle Übungen aus Buch 1 & 2 auf Französich abschließen
+- [ ] Alle Übungen aus Buch 1 & 2  abschließen
 - [ ] Ein erstes vollständiges Python-Projekt erstellen
 - [ ] Objektorientierte Programmierung lernen
 
