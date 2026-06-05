@@ -1,16 +1,35 @@
-## Hi there 👋
+# Salut, je suis Donald 👋
 
-<!--
-**donald2006/donald2006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🏫 Élève au lycée | Passionné d'informatique et de programmation
+🐍 J'apprends Python — je recommence à zéro pour bien maîtriser les bases
+📚 Je travaille sur le livre **"Python au lycée"** d'Arnaud Bodin
+📫 Contact : edonaldgboulet@gmail.com
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Ce que j'apprends
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+## 📊 Statistiques GitHub
+
+![Stats](https://github-readme-stats.vercel.app/api?username=donald2006&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=donald2006&layout=compact&theme=tokyonight&hide_border=true)
+
+---
+
+## 🎯 Objectifs
+
+- [ ] Maîtriser les bases de Python
+- [ ] Terminer les exercices du tome 1 & 2
+- [ ] Créer un projet Python complet
+- [ ] Apprendre la programmation orientée objet
+
+---
+
+> *"Je recommence à zéro pour aller plus loin."* 🚀
