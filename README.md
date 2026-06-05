@@ -1,13 +1,13 @@
-# Salut, je suis Donald 👋
+# Hallo, ich bin Donald 👋
 
-🏫 Élève au lycée | Passionné d'informatique et de programmation
-🐍 J'apprends Python — je recommence à zéro pour bien maîtriser les bases
-📚 Je travaille sur le livre **"Python au lycée"** d'Arnaud Bodin
-📫 Contact : edonaldgboulet@gmail.com
+🏫 Gymnasiast | Begeistert für Informatik und Programmierung
+🐍 Ich lerne Python — ich fange von vorne an, um die Grundlagen zu meistern
+📚 Ich arbeite mit dem Buch **"Python au lycée"** von Arnaud Bodin
+📫 Kontakt : edonaldgboulet@gmail.com
 
 ---
 
-## 🛠️ Ce que j'apprends
+## 🛠️ Was ich lerne
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -15,21 +15,25 @@
 
 ---
 
-## 📊 Statistiques GitHub
-## 📊 Statistiques GitHub
+## 🐍 Meine Python-Projekte
 
-[![Stats](https://github-readme-stats.vercel.app/api?username=donald2006&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800)](https://github.com/donald2006)
-
-[![Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=donald2006&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800)](https://github.com/donald2006)
----
-
-## 🎯 Objectifs
-
-- [ ] Maîtriser les bases de Python
-- [ ] Terminer les exercices du tome 1 & 2
-- [ ] Créer un projet Python complet
-- [ ] Apprendre la programmation orientée objet
+| Datei | Was ich lerne |
+|---|---|
+| `Variable.py` | Variablen und Datentypen |
+| `boucle_for.py` | Schleifen und Wiederholungen |
+| `Fonctions.py` | Funktionen definieren und aufrufen |
+| `Turtle.py` | Zeichnen mit dem Turtle-Modul |
+| `sierpinski.py` | Rekursion — Sierpiński-Dreieck |
 
 ---
 
-> *"Je recommence à zéro pour aller plus loin."* 🚀
+## 🎯 Meine Ziele
+
+- [ ] Python-Grundlagen meistern
+- [ ] Alle Übungen aus Buch 1 & 2 auf Französich abschließen
+- [ ] Ein erstes vollständiges Python-Projekt erstellen
+- [ ] Objektorientierte Programmierung lernen
+
+---
+
+> *"Ich fange von vorne an, um weiter zu kommen."* 
