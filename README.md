@@ -16,11 +16,11 @@
 ---
 
 ## 📊 Statistiques GitHub
+## 📊 Statistiques GitHub
 
-![Stats](https://github-readme-stats.vercel.app/api?username=donald2006&show_icons=true&theme=tokyonight&hide_border=true)
+[![Stats](https://github-readme-stats.vercel.app/api?username=donald2006&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800)](https://github.com/donald2006)
 
-![Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=donald2006&layout=compact&theme=tokyonight&hide_border=true)
-
+[![Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=donald2006&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800)](https://github.com/donald2006)
 ---
 
 ## 🎯 Objectifs
