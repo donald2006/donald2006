@@ -1,3 +1,5 @@
+<div align="center">
+
 # Hallo, ich bin Donald 👋
 
 🏫 Gymnasiast | Begeistert für Informatik und Programmierung
@@ -5,6 +7,7 @@
 📚 Ich arbeite mit dem Buch **"Python au lycée"** von Arnaud Bodin
 📫 Kontakt : edonaldgboulet@gmail.com
 
+</div>
 ---
 
 ## 🛠️ Was ich lerne
