@@ -15,25 +15,19 @@
 
 ---
 
-## 🐍 Meine Python-Projekte
+## 🐍 Meine Projekte
 
-| Datei | Was ich lerne |
-|---|---|
-| `Variable.py` | Variablen und Datentypen |
-| `boucle_for.py` | Schleifen und Wiederholungen |
-| `Fonctions.py` | Funktionen definieren und aufrufen |
-| `Turtle.py` | Zeichnen mit dem Turtle-Modul |
-| `sierpinski.py` | Rekursion — Sierpiński-Dreieck |
+🔗 [Formation Python 2026](https://github.com/donald2006/-Formation_Python_2026) — Übungen und Projekte
 
 ---
 
 ## 🎯 Meine Ziele
 
 - [ ] Python-Grundlagen meistern
-- [ ] Alle Übungen aus Buch 1 & 2  abschließen
+- [ ] Alle Übungen aus Buch 1 & 2 abschließen
 - [ ] Ein erstes vollständiges Python-Projekt erstellen
 - [ ] Objektorientierte Programmierung lernen
 
 ---
 
-> *"Ich fange von vorne an, um weiter zu kommen."* 
+> *"Ich fange von vorne an, um weiter zu kommen."* 🚀
