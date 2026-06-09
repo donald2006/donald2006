@@ -3,8 +3,11 @@
 # Hallo, ich bin Donald 👋
 
 🏫 Gymnasiast | Begeistert für Informatik und Programmierung
+
 🐍 Ich lerne Python — ich fange von vorne an, um die Grundlagen zu meistern
+
 📚 Ich arbeite mit dem Buch **"Python au lycée"** von Arnaud Bodin
+
 📫 Kontakt : edonaldgboulet@gmail.com
 
 </div>
