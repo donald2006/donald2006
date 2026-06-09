@@ -11,7 +11,6 @@
 📫 Kontakt : edonaldgboulet@gmail.com
 
 </div>
----
 
 ## 🛠️ Was ich lerne
 
@@ -19,13 +18,11 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
----
 
 ## 🐍 Meine Projekte
 
 🔗 [Formation Python 2026](https://github.com/donald2006/-Formation_Python_2026) — Übungen und Projekte
 
----
 
 ## 🎯 Meine Ziele
 
@@ -34,6 +31,5 @@
 - [ ] Ein erstes vollständiges Python-Projekt erstellen
 - [ ] Objektorientierte Programmierung lernen
 
----
 
 > *"Ich fange von vorne an, um weiter zu kommen."* 🚀
