@@ -36,4 +36,4 @@
 - [ ] Objektorientierte Programmierung meistern
 - [ ] Erstes Data-Science-Projekt erstellen
 
-> *"Ich fange von vorne an, um weiter zu kommen."* 🚀
+> *Ich fange von vorne an, um weiter zu kommen.* 🚀
